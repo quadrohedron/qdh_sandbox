@@ -1,3 +1,3 @@
-# qdh_sandbox
+# Sandpile
 
 Abelian sandpile animator made with PySide. Includes all used sandpile classes. Easily deployable.
